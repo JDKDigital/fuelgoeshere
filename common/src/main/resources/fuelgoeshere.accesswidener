@@ -1,0 +1,4 @@
+accessWidener   v2  named
+accessible method net/minecraft/tags/ItemTags bind (Ljava/lang/String;)Lnet/minecraft/tags/TagKey;
+accessible method net/minecraft/world/inventory/AbstractFurnaceMenu isFuel (Lnet/minecraft/world/item/ItemStack;)Z
+accessible method net/minecraft/world/inventory/AbstractFurnaceMenu canSmelt (Lnet/minecraft/world/item/ItemStack;)Z

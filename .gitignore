@@ -20,6 +20,11 @@ build
 # other
 eclipse
 run
+output/
+bin/
+libs/
+classes/
+.vscode
 
 # Files from Forge MDK
 forge*changelog.txt
