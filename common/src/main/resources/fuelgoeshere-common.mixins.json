@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "${MOD_GROUP}.common.mixin",
+  "mixins": [
+    "MixinAbstractFurnaceMenu"
+  ],
+  "minVersion": "${libs.versions.sponge.mixin.get()}",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "compatibilityLevel": "JAVA_17"
+}
